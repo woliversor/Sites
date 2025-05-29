@@ -1,0 +1,10 @@
+title: "woliver"
+description: "Site Pessoal"
+theme: minima
+markdown: kramdown
+_layouts/
+_includes/
+_posts/
+_portofolio/
+index.md
+_config.yml
